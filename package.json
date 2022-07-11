@@ -1,0 +1,19 @@
+{
+  "name": "chat-booster",
+  "version": "1.0.0",
+  "description": "boosts discord chat",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "axios": "^0.27.2",
+    "console-title": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hartman5",
+  "license": "ISC"
+}
