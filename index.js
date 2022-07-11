@@ -29,6 +29,7 @@ function get_token() {
     const randomLineNumber = Math.floor(Math.random() * lineCount)
     return readMe[randomLineNumber]
 }
+
 async function send_message(channelid) {
     proxy = get_proxy()
     message = get_message()
